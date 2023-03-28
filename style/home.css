@@ -514,9 +514,9 @@ height: 40px;
 
 
    @media all and (min-width:1080px) and (max-width:1200px){
-    #nav-menu{
+    /* #nav-menu{
         display: none;
-    }
+    } */
         .infocontainer{
             display: grid;
             grid-template-columns: repeat(1,1fr);
@@ -554,9 +554,9 @@ height: 40px;
         }
    }
    @media all and (min-width:800px) and (max-width:1079px){
-    #nav-menu{
+    /* #nav-menu{
         display: none;
-    }
+    } */
         .infocontainer{
             display: grid;
             grid-template-columns: repeat(1,1fr);
@@ -641,9 +641,9 @@ height: 40px;
    }
   
    @media all and (min-width:400px) and (max-width:799px){
-    #nav-menu{
+    /* #nav-menu{
         display: none;
-    }
+    } */
     #git_hub_a>div:nth-child(2) img{
         width:100%
                 }
@@ -739,9 +739,9 @@ height: 40px;
 
 
    @media all and (min-width:100px) and (max-width:399px){
-    #nav-menu{
+    /* #nav-menu{
         display: none;
-    }
+    } */
         .infocontainer{
             display: grid;
             grid-template-columns: repeat(1,1fr);
