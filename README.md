@@ -1,5 +1,5 @@
 # My Portfolio
-<link url="imgolugaurav.netlify.app">
+<link URL="https://imgolugaurav.netlify.app">
 #ligth mode
 <img src="https://github.com/Golugauraw1/Golugauraw1.github.io/assets/112753675/92fc5208-4e52-480f-a460-85641113b064">
 <br>
