@@ -80,7 +80,6 @@ export const Techstacks = () => {
             <SiPostman/>
             <h5>postman</h5>
           </div>
-          
         </div>
       </div>
     </>
